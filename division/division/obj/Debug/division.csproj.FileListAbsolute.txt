@@ -1,0 +1,6 @@
+C:\Users\Vendip\Desktop\Class\division\division\obj\Debug\division.csprojResolveAssemblyReference.cache
+C:\Users\Vendip\Desktop\Class\division\division\bin\Debug\division.exe.config
+C:\Users\Vendip\Desktop\Class\division\division\bin\Debug\division.exe
+C:\Users\Vendip\Desktop\Class\division\division\bin\Debug\division.pdb
+C:\Users\Vendip\Desktop\Class\division\division\obj\Debug\division.exe
+C:\Users\Vendip\Desktop\Class\division\division\obj\Debug\division.pdb

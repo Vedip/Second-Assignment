@@ -1,0 +1,6 @@
+C:\Users\Vendip\Desktop\Class\multiplication\multiplication\obj\Debug\multiplication.csprojResolveAssemblyReference.cache
+C:\Users\Vendip\Desktop\Class\multiplication\multiplication\bin\Debug\multiplication.exe.config
+C:\Users\Vendip\Desktop\Class\multiplication\multiplication\bin\Debug\multiplication.exe
+C:\Users\Vendip\Desktop\Class\multiplication\multiplication\bin\Debug\multiplication.pdb
+C:\Users\Vendip\Desktop\Class\multiplication\multiplication\obj\Debug\multiplication.exe
+C:\Users\Vendip\Desktop\Class\multiplication\multiplication\obj\Debug\multiplication.pdb

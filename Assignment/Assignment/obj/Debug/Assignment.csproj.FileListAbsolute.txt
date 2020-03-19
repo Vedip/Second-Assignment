@@ -1,0 +1,6 @@
+C:\Users\Vendip\Desktop\Class\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\Vendip\Desktop\Class\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\Vendip\Desktop\Class\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\Vendip\Desktop\Class\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\Vendip\Desktop\Class\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\Vendip\Desktop\Class\Assignment\Assignment\obj\Debug\Assignment.pdb
